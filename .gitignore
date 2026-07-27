@@ -1,3 +1,6 @@
+.venv/
 __pycache__/
+qdrant_db/
 .env
-logs/
+data/
+*.log
